@@ -2,4 +2,4 @@
 В проектная работа №3 представляет собой одностраничный сайт о путешествиях по России и информацией
 о достопримечательностях.
 В работе применяется **grid**- и **flexbox**-вёрстка, применяются медиазапросы для адаптивности сайта под разные разрешения экрана.
-Cсылка проекта на GitHub pages: [https://andreykotlyarov.github.io/russian-travel/index.html] (https://andreykotlyarov.github.io/russian-travel/index.html)
+Cсылка проекта на GitHub pages: [https://andreykotlyarov.github.io/russian-travel/index.html](https://andreykotlyarov.github.io/russian-travel/index.html)
