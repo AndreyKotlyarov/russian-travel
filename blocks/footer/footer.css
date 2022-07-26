@@ -6,12 +6,12 @@
   padding: 92px 48px 24px;
   box-sizing: border-box;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .footer {
     padding: 88px 24px 24px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .footer {
     box-sizing: content-box;
     min-height: 310px;

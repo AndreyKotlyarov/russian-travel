@@ -1,16 +1,4 @@
 .page {
-  max-width: 1280px;
-  background-color: #2A2C2F;
-  font-family: 'Inter', Helvetica, sans-serif;
-  font-style: normal;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
   color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  padding: 0;
-  box-sizing: border-box;
 }

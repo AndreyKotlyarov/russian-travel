@@ -19,12 +19,12 @@
     grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
   .place {
     grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .place {
     grid-template-areas:
     "title"
