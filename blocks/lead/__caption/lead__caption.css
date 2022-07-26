@@ -5,3 +5,13 @@
   text-transform: uppercase;
   align-self: flex-start;
 }
+@media screen and (max-width: 900px) {
+  .lead__caption {
+    padding: 0 0 0 24px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .lead__caption {
+    padding: 0 0 0 16px;
+  }
+}
