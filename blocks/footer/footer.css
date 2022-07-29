@@ -13,12 +13,9 @@
 }
 @media screen and (max-width: 650px) {
   .footer {
-    box-sizing: content-box;
-    min-height: 310px;
+    display: inline-block;
     padding-bottom: 24px;
     padding-left: 16px;
     padding-top: 64px;
-    flex-direction: column;
-    align-items: flex-start;
   }
 }
